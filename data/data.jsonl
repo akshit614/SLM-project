@@ -1,0 +1,10 @@
+{"instruction": "How do I start Machine A?", "input": "", "output": "To start Machine A, first press the green power button, wait for 5 seconds until the light stabilizes, then rotate the control knob to position 1."}
+{"instruction": "What does the red indicator mean on Machine B?", "input": "", "output": "The red indicator on Machine B means the system is overheating. Turn off the machine and let it cool down before restarting."}
+{"instruction": "How can I reset the control panel on Machine C?", "input": "", "output": "Press and hold the reset button for 10 seconds until the panel beeps twice."}
+{"instruction": "What is the recommended oil type for Machine D?", "input": "", "output": "Use synthetic oil grade SAE 10W-40 for Machine D as per the manufacturer guidelines."}
+{"instruction": "Why is Machine E making a loud noise?", "input": "", "output": "It could be due to loose bearings. Stop the machine and check the bearing fittings immediately."}
+{"instruction": "How to perform emergency shutdown of Machine F?", "input": "", "output": "Press the red emergency stop button. This will cut off power and halt all processes immediately."}
+{"instruction": "What are the maintenance steps for Machine G?", "input": "", "output": "Clean the filters weekly, lubricate joints monthly, and inspect electrical connections every 3 months."}
+{"instruction": "How do I calibrate Machine H sensors?", "input": "", "output": "Use the calibration tool in the menu, select 'Auto Calibrate', and follow the screen instructions."}
+{"instruction": "What is the function of lever X in Machine I?", "input": "", "output": "Lever X controls the coolant flow. Up is open, down is closed."}
+{"instruction": "What should I do if Machine J doesn’t start?", "input": "", "output": "Check power supply, ensure all safety interlocks are engaged, and reset the main circuit breaker."}
