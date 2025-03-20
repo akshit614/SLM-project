@@ -57,6 +57,7 @@ if uploaded_file:
     # Process document
     chunks = load_manual("manual.pdf")
     vector_db = create_vector_db(chunks)
+    
 
     try:
         model_url = "https://gpt4all.io/models/gguf/gpt4all-falcon-newbpe-q4_0.gguf"
